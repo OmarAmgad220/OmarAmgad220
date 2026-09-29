@@ -19,25 +19,25 @@
 </table>
 
 <p align="center">
-  <a href="www.linkedin.com/in/omar-amgad-aa047a290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/omar-amgad-aa047a290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,angular,html,css,mysql,docker,linux,git,figma&perline=7" alt="tech stack" />
-</p>
 
+<!-- TECH STACK & SKILLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,html,css,mysql,spring,dotnet,flask,react,angular,selenium,docker,linux,git,figma&perline=10" alt="tech stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Stencil-4C45B2?style=for-the-badge&logo=stencil&logoColor=white" alt="Stencil" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+</p>
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=OmarAmgad220&theme=tokyonight&hide_border=true" alt="streak" />
 </p> -->
 
-
 <p align="center">
   <img data-importer="snake" src="https://raw.githubusercontent.com/OmarAmgad220/OmarAmgad220/snake-output/snake.svg" alt="Snake animation" />
 </p>
-
-
-
 
 <!-- FOOTER -->
 <p align="center">
